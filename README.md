@@ -1,6 +1,6 @@
 ﻿# Python-project-Scripts.
 
-## This is a list of python scripts for beginner projects.
+## This is a list of python scripts (projects).
 
 ## Projects
 
